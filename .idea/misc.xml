@@ -8,7 +8,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Project Mobile/A1/BasicAppX/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Project Mobile/A1/BasicAppX/app/src/main/res/drawable/header_style.xml" value="0.1" />
+        <entry key="..\:/Project Mobile/A1/BasicAppX/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
         <entry key="..\:/Project Mobile/A1/aplas-A1-solution-main/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
